@@ -1,0 +1,7 @@
+# defines configuration of the module
+
+name: Form
+description: A Form to enter user details from a tutorial at https://www.valuebound.com/resources/blog/how-to-create-custom-form-crud-create-delete-update-operations-drupal-8
+core: 8.x
+package: Custom
+type: module
